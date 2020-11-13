@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/\u5834\u666F/die1114lighting.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
